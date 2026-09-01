@@ -9,6 +9,7 @@ PM2 — Password Cracking with NetworkWalks Tools: using NetworkWalks' own free,
 Both modules follow the same idea: take the password hash out of a locked PDF, then run a dictionary attack that tries word after word until one matches. Doing it two ways shows that a professional CLI tool and a simple web tool rely on the exact same underlying technique — and that a weak password falls to both in seconds.
 
 ⚠️ Authorization & Scope
+
 All files cracked here are practice PDFs provided by NetworkWalks as part of the B082 internship — they are deliberately locked as a training (capture-the-flag) exercise.
 
 In scope:
